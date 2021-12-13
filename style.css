@@ -167,9 +167,11 @@ i:before {
     bottom: 40%;
     right: 50%;
 }
+
 h1 {
     text-shadow: 2px 2px palevioletred;
   }
+
   h2 {
       text-shadow: 2px 2px red;
   }
